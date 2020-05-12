@@ -1,10 +1,4 @@
 <style type="text/css">  
-h1,h2,h3,h4,h5,h6{font-family:&quot;Roboto&quot;,Arial,sans-serif}
-h1,h2,h3,h4,h5,h6{margin-top:0;margin-bottom:10px}
-h2{font-weight:700;margin-bottom:20px}
-h3{line-height:35px;margin-bottom:20px}
-h4{font-size:17px;font-weight:700}  
-p{margin-bottom:20px;line-height:28px}
 a,a:visited{-webkit-transition:all 150ms ease-in;-moz-transition:all 150ms ease-in;-o-transition:all 150ms ease-in;transition:all 150ms ease-in}
 a{color:#00a8d6;-webkit-transition:all .2s ease-in-out;-moz-transition:all .2s ease-in-out;transition:all .2s ease-in-out}
 a:hover,a:focus{text-decoration:none;color:#007DA0;outline:none}
